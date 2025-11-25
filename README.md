@@ -104,9 +104,4 @@ Focus: Java Development | DSA | OOP | DBMS
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=shubhranshu-p&style=for-the-badge&color=764ba2" alt="Profile Views"/>
-
-### 💡 *"Clean code. Clear logic. Real impact."*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer)
-
 </div>
