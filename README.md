@@ -92,15 +92,6 @@ Focus: Java Development | DSA | OOP | DBMS
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shubhranshu-p&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=764ba2&icon_color=667eea&text_color=ffffff"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhranshu-p&theme=tokyonight&hide_border=true&background=0D1117&ring=764ba2&fire=667eea&currStreakLabel=764ba2"/>
-</div>
-
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=shubhranshu-p&style=for-the-badge&color=764ba2" alt="Profile Views"/>
