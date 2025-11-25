@@ -1,7 +1,8 @@
-
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Shubhranshu%20Sudeepta%20Panda&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Shubhranshu%20Sudeepta%20Panda&fontSize=36&fontColor=ffffff&fontAlignY=35)
+
+<!-- Rest of your content... -->
 
 
 <a href="mailto:shubhranshusudeepta2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
