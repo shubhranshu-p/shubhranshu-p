@@ -29,9 +29,7 @@ Currently Learning: Spring Boot | System Design
   <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,git,github&theme=dark" />
 </p>
 
-<details>
-<summary><b>📋 More Details</b></summary>
-<br/>
+
 
 | Category | Technologies |
 |----------|-------------|
