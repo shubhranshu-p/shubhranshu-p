@@ -16,7 +16,7 @@
 Name: Shubhranshu Sudeepta Panda
 Location: Bhubaneswar, Odisha 📍
 Education: B.Tech CSE @ VIT Amaravati (2022-2026)
-CGPA: 7.98/10.0
+CGPA: 8.02/10.0
 Focus: Java Development | DSA | OOP | DBMS
 Currently Learning: Spring Boot | System Design
 ```
